@@ -15,7 +15,8 @@ import java.util.List;
 которое пользователь может увидеть - RuntimeException, т.е. ваше. */
 
 /**
- * hw1
+ * Для проверки каждого задания все предыдущие должны быть закомментированы,
+ * т.к. в каждом задании вызывается исключение
  */
 public class hw1 {
     public static void main(String[] args) {
